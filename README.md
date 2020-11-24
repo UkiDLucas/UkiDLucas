@@ -41,6 +41,7 @@ https://gist.github.com/rxaviers/7360908
 - [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
 - [Microsoft Student Partners (Ambassadors) – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
 <!-- BLOG-POST-LIST:END -->
+---
 - [Distributed Artificial Intelligence.](https://medium.com/@ukidlucas/distributed-machine-learning-and-gp-ai-fc2a0e3f6db)
 - [Success of Quick Gratification versus Culture](https://medium.com/@ukidlucas/success-of-quick-gratification-versus-culture-e270858678e9)
 - [What have I learned from Chinghis Khan?](https://medium.com/@ukidlucas/what-have-i-learned-from-chinghis-khan-a4bc2d950f31)
