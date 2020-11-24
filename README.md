@@ -7,7 +7,7 @@ In my free time I work on the programming projects and I read or listen to a lot
 My current passion is **AI and machine learning**.
 
 ---
-
+#### Statistics 
 <table style="border: 1px solid transparent" >
 <tr>
   <td>
@@ -28,11 +28,7 @@ My current passion is **AI and machine learning**.
 
 ---
 
-
-
-
-
-#### Connect with me:
+#### Connect with Uki:
 
 [<img align="left" alt="UkiDLucas" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="UkiDLucas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
