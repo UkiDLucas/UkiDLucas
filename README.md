@@ -3,47 +3,37 @@
 ### I am a System Architect at work and a software / AI developer in my free time.
 
 
- 
-
-Here are some ideas to get you started:
-
-- 🔭  &nbsp; &nbsp; I’m currently working on **"Stock Market Indicators" machine learning**.
-- 🌱  &nbsp;  I’m currently learning **Julia language** programming
-- 👯  &nbsp; You can chat with me on [LinkedIn][linkedin]
-
-- 💬   &nbsp; Ask me about joing your startup as a mentor.
-- 📫   &nbsp; How to reach me: [LinkedIn][linkedin]
-- :dizzy_face:  &nbsp;  Pronouns: Look at my picture.
+📫  &nbsp; Reach me on [LinkedIn][linkedin]
+💬  &nbsp; Ask me about joing your startup as a mentor.
+🔭  &nbsp; Researching **"Market Indicators"** machine learning.
+🌱  &nbsp; Learning **Julia language** programming
+💥  &nbsp; Fun fact: I have build a cabin Up North of Michigan
+🙈  &nbsp; Prefered Pronouns: who, what, which, and whose
 
 <!--
-- ⚡  &nbsp;  Fun fact: ...
-- 🤔  &nbsp; I’m looking for help with ...
+Complete list of emoji:
+https://gist.github.com/rxaviers/7360908
  -->
 
  
 
 [![Website](https://img.shields.io/website?label=UkiDLucas&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/UkiDLucas?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FUkiDLucas&screen_name=UkiDLucas)
 
-
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
+<!--
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+-->
+
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="UkiDLucas" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="UkiDLucas | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="UkiDLucas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="UkiDLucas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="UkiDLucas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
