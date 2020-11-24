@@ -11,7 +11,7 @@ I am a System Architect at work and a software / AI developer in my free time.
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UkiDLucas)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UkiDLucas&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
