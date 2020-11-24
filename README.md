@@ -8,14 +8,12 @@ I am a System Architect at work and a software / AI developer in my free time.
    src="https://github-readme-stats.vercel.app/api?username=UkiDLucas&show_icons=true&hide_border=true" 
    />
 
+---
+<br />
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-  <img align="left" 
-  src="https://github-readme-stats.vercel.app/api/pin/?username=UkiDLucas" /><br />
-  <img align="left" 
-  src="https://github-readme-stats.vercel.app/api/pin/?username=UkiDLucas&repo=convoychat" />
 
 
 
