@@ -3,6 +3,10 @@
 #### About Uki 
 I am a System Architect at work and a software / AI developer in my free time.
 
+  <img align="left" 
+   alt="Uki's GitHub Stats" 
+   src="https://github-readme-stats.vercel.app/api?username=UkiDLucas&show_icons=true&hide_border=true" 
+   />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -13,10 +17,7 @@ I am a System Architect at work and a software / AI developer in my free time.
   <img align="left" 
   src="https://github-readme-stats.vercel.app/api/pin/?username=UkiDLucas&repo=convoychat" />
 
-  <img align="left" 
-   alt="Uki's GitHub Stats" 
-   src="https://github-readme-stats.vercel.app/api?username=UkiDLucas&show_icons=true&hide_border=true" 
-   />
+
 
 </details>
 <br />
