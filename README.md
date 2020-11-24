@@ -40,10 +40,12 @@ My current passion are **computer peception, AI and machine learning**.
 <details>
   <summary>:zap: more details..</summary>
   
+  <br />
+  
 💬  &nbsp; Ask me about joing your startup as a mentor. <br/>
-🔭  &nbsp; Researching **"Market Indicators"** machine learning. <br/>
-🌱  &nbsp; Learning **Julia language** programming<br/>
-💥  &nbsp; Fun fact: I have build a cabin Up North of Michigan <br/>
+🔭  &nbsp; I am currently working on [**"Market Indicators"** machine learning written in Julia](https://github.com/UkiDLucas/MarketIndicators.jl). <br/>
+🌱  &nbsp; In 2020, I have learned [**Julia programming language**](https://github.com/UkiDLucas/UkiDLucas.github.io/tree/master/content/Julia). <br/>
+💥  &nbsp; Fun fact: In 2020, I have build a cabin Up North of Michigan <br/>
 🙈  &nbsp; Prefered Pronouns: who, what, which, and whose <br/>
 
 
