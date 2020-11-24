@@ -3,13 +3,24 @@
 ### I am a System Architect at work and a software / AI developer in my free time.
 
 
-📫  &nbsp; Reach me on [LinkedIn][linkedin]
-💬  &nbsp; Ask me about joing your startup as a mentor.
-🔭  &nbsp; Researching **"Market Indicators"** machine learning.
-🌱  &nbsp; Learning **Julia language** programming
-💥  &nbsp; Fun fact: I have build a cabin Up North of Michigan
-🙈  &nbsp; Prefered Pronouns: who, what, which, and whose
+### Connect with me:
 
+[<img align="left" alt="UkiDLucas" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="UkiDLucas | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="UkiDLucas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="UkiDLucas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="UkiDLucas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+
+📫  &nbsp; Reach me on [LinkedIn][linkedin] <br/>
+💬  &nbsp; Ask me about joing your startup as a mentor. <br/>
+🔭  &nbsp; Researching **"Market Indicators"** machine learning. <br/>
+🌱  &nbsp; Learning **Julia language** programming<br/>
+💥  &nbsp; Fun fact: I have build a cabin Up North of Michigan <br/>
+🙈  &nbsp; Prefered Pronouns: who, what, which, and whose <br/>
+<br/>
 <!--
 Complete list of emoji:
 https://gist.github.com/rxaviers/7360908
@@ -27,15 +38,6 @@ https://gist.github.com/rxaviers/7360908
 -->
 
 
-### Connect with me:
-
-[<img align="left" alt="UkiDLucas" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="UkiDLucas | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="UkiDLucas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="UkiDLucas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="UkiDLucas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools:
 
