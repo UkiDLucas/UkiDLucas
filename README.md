@@ -4,6 +4,16 @@
 I am a System Architect at work and a software / AI developer in my free time.
 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ukidlucas&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ukidlucas&repo=convoychat" />
+</a>
+
+
+
+
 #### Connect with me:
 
 [<img align="left" alt="UkiDLucas" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -49,13 +59,6 @@ https://gist.github.com/rxaviers/7360908
 ---
 
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ukidlucas&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ukidlucas&repo=convoychat" />
-</a>
 
 
 
