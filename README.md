@@ -4,6 +4,7 @@
 At work, I am a System Architect working on the **Advanced Driver Assistance Systems (ADAS)**.
 
 In my free time I work on the programming projects and I read or listen to a lot of books.
+
 My current passion are **computer peception, AI and machine learning**.
 
 ---
@@ -53,6 +54,9 @@ My current passion are **computer peception, AI and machine learning**.
 💥  &nbsp; Fun fact: I have build a cabin Up North of Michigan <br/>
 🙈  &nbsp; Prefered Pronouns: who, what, which, and whose <br/>
 
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/UkiDLucas?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FUkiDLucas&screen_name=UkiDLucas)
+
 </details>
 
 
@@ -79,7 +83,6 @@ My current passion are **computer peception, AI and machine learning**.
 
 ---
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/UkiDLucas?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FUkiDLucas&screen_name=UkiDLucas)
  
  
 [website]: https://github.com/UkiDLucas
