@@ -5,43 +5,6 @@ At work, I am a System Architect and a software / AI developer in my free time.
 
 
 ---
-
-<!--
-<details>
-  <summary>:zap: GitHub Stats</summary>
-</details>
-<br />
--->
-
-
-#### Connect with me:
-
-[<img align="left" alt="UkiDLucas" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="UkiDLucas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="UkiDLucas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!--
-[<img align="left" alt="UkiDLucas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="UkiDLucas | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
--->
-
-<br />
-<br />
-
-📫  &nbsp; Write to me on [LinkedIn][linkedin] <br/>
-💬  &nbsp; Ask me about joing your startup as a mentor. <br/>
-🔭  &nbsp; Researching **"Market Indicators"** machine learning. <br/>
-🌱  &nbsp; Learning **Julia language** programming<br/>
-💥  &nbsp; Fun fact: I have build a cabin Up North of Michigan <br/>
-🙈  &nbsp; Prefered Pronouns: who, what, which, and whose <br/>
-<br/>
-<br />
-<!--
-Complete list of emoji:
-https://gist.github.com/rxaviers/7360908
--->
-
-
-
 <br />
 
 
@@ -64,6 +27,41 @@ https://gist.github.com/rxaviers/7360908
 <br />
 
 ---
+
+
+
+
+
+#### Connect with me:
+
+[<img align="left" alt="UkiDLucas" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="UkiDLucas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="UkiDLucas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!--
+[<img align="left" alt="UkiDLucas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="UkiDLucas | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+-->
+
+<br />
+<br />
+
+📫  &nbsp; Write to me on [LinkedIn][linkedin] <br/>
+💬  &nbsp; Ask me about joing your startup as a mentor. <br/>
+
+<details>
+  <summary>:zap: more info</summary>
+🔭  &nbsp; Researching **"Market Indicators"** machine learning. <br/>
+🌱  &nbsp; Learning **Julia language** programming<br/>
+💥  &nbsp; Fun fact: I have build a cabin Up North of Michigan <br/>
+🙈  &nbsp; Prefered Pronouns: who, what, which, and whose <br/>
+</details>
+<br />
+<br/>
+<br />
+<!-- Complete list of emoji: https://gist.github.com/rxaviers/7360908 -->
+
+
+
 
 #### Blog Posts
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
