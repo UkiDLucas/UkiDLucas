@@ -1,9 +1,10 @@
 ## Welcome to Uki's GitHub
 
-### I am a System Architect at work and a software / AI developer in my free time.
+#### About Uki 
+I am a System Architect at work and a software / AI developer in my free time.
 
 
-### Connect with me:
+#### Connect with me:
 
 [<img align="left" alt="UkiDLucas" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="UkiDLucas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -16,7 +17,6 @@
 <br />
 <br />
 
-
 📫  &nbsp; Write to me on [LinkedIn][linkedin] <br/>
 💬  &nbsp; Ask me about joing your startup as a mentor. <br/>
 🔭  &nbsp; Researching **"Market Indicators"** machine learning. <br/>
@@ -28,9 +28,7 @@
 <!--
 Complete list of emoji:
 https://gist.github.com/rxaviers/7360908
- 
-
-
+-->
 
 
 <!-- BLOG-POST-LIST:START -->
@@ -46,27 +44,24 @@ https://gist.github.com/rxaviers/7360908
 - [Cars, the new mobile platform frontier](https://medium.com/@ukidlucas/cars-the-new-mobile-platform-frontier-8f351003854a)
 - [Virtual Personal Assistant](https://medium.com/@ukidlucas/vpa-7dacef83e90d)
 
-➡️ [more blog posts...][medium]
+➡️ [my medium.com ...][medium]
 ---
 <!-- BLOG-POST-LIST:END -->
 
 
 
- 
-
-[![Website](https://img.shields.io/website?label=UkiDLucas&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
--->
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/UkiDLucas?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FUkiDLucas&screen_name=UkiDLucas)
-
+ 
 <!--
+[![Website](https://img.shields.io/website?label=UkiDLucas&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 -->
 
 
-
+<!--
 ### Languages and tools I use:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
@@ -85,7 +80,7 @@ https://gist.github.com/rxaviers/7360908
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
+-->
 <br />
 <br />
 
