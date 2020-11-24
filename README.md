@@ -31,24 +31,21 @@ https://gist.github.com/rxaviers/7360908
 -->
 
 
-<!-- BLOG-POST-LIST:START -->
-### 📕 Blog Posts
 
+#### Blog Posts
+
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 - [Distributed Artificial Intelligence.](https://medium.com/@ukidlucas/distributed-machine-learning-and-gp-ai-fc2a0e3f6db)
 - [Success of Quick Gratification versus Culture](https://medium.com/@ukidlucas/success-of-quick-gratification-versus-culture-e270858678e9)
-
 - [What have I learned from Chinghis Khan?](https://medium.com/@ukidlucas/what-have-i-learned-from-chinghis-khan-a4bc2d950f31)
 - [Battle of (with?) the PRO tablets](https://medium.com/@ukidlucas/battle-of-with-the-tablets-f1284edda66c)
 - [Your Value after the A.I. Singularity Event](https://medium.com/datadriveninvestor/what-will-have-value-post-singularity-82f75d8c7442)
-- [https://medium.com/@ukidlucas/what-is-next-for-elon-musk-d5d59d59b237](https://medium.com/@ukidlucas/what-is-next-for-elon-musk-d5d59d59b237)
+- [What is next for Elon Musk](https://medium.com/@ukidlucas/what-is-next-for-elon-musk-d5d59d59b237)
 - [Cars, the new mobile platform frontier](https://medium.com/@ukidlucas/cars-the-new-mobile-platform-frontier-8f351003854a)
 - [Virtual Personal Assistant](https://medium.com/@ukidlucas/vpa-7dacef83e90d)
+- [my medium.com ...][medium]
 
-➡️ [my medium.com ...][medium]
 ---
-<!-- BLOG-POST-LIST:END -->
-
-
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/UkiDLucas?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FUkiDLucas&screen_name=UkiDLucas)
  
