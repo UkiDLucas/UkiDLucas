@@ -43,7 +43,7 @@ https://gist.github.com/rxaviers/7360908
 -->
 
 <br />
-<table style="border-color: transparent;" >
+<table style="border: 1px solid transparent" >
 <tr>
   <td>
   <img align="left" 
