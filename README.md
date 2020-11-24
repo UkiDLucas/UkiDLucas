@@ -49,8 +49,11 @@ https://gist.github.com/rxaviers/7360908
    />
 </div>
 
+  <img align="left" 
+   alt="Uki's GitHub Stats" 
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=UkiDLucas&langs_count=9&hide=HTML&count_private=true" 
+   />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UkiDLucas&langs_count=9&hide=HTML&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
