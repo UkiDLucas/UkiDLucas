@@ -46,15 +46,13 @@ https://gist.github.com/rxaviers/7360908
 <table style="border: 0px solid transparent" >
 <tr>
   <td>
-      <img align="left" 
-       alt="Uki's GitHub Stats" 
+      <img alt="Github Stats" 
        src="https://github-readme-stats.vercel.app/api?username=UkiDLucas&show_icons=true&hide_border=true&count_private=true" 
        />
   <td>
   </td>
-      <img align="left" 
-       alt="Uki's GitHub Stats" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=UkiDLucas&langs_count=9&hide=HTML&count_private=true" 
+      <img alt="Languages" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=UkiDLucas&langs_count=9&hide=HTML&count_private=true&layout=compact" 
        />
   </td>
 </tr>
