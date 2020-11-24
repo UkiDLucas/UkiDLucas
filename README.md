@@ -1,19 +1,17 @@
 ## Welcome to Uki's GitHub
 
 #### About Uki 
-I am a System Architect at work and a software / AI developer in my free time.
+At work, I am a System Architect and a software / AI developer in my free time.
 
 
 ---
 
+<!--
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-
-
-
 </details>
 <br />
+-->
 
 
 #### Connect with me:
@@ -66,8 +64,6 @@ https://gist.github.com/rxaviers/7360908
 
 ---
 
-
-
 #### Blog Posts
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
@@ -87,8 +83,6 @@ https://gist.github.com/rxaviers/7360908
 [![Twitter Follow](https://img.shields.io/twitter/follow/UkiDLucas?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FUkiDLucas&screen_name=UkiDLucas)
  
  
-
-
 [website]: https://github.com/UkiDLucas
 [medium]: https://medium.com/@ukidlucas
 [twitter]: https://twitter.com/UkiDLucas
