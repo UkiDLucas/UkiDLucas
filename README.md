@@ -35,11 +35,11 @@ https://gist.github.com/rxaviers/7360908
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome "Your connection is not private" warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
-- [Microsoft Student Partners (Ambassadors) – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
+- [Distributed Machine Learning and GP AI.](https://medium.com/@ukidlucas/distributed-machine-learning-and-gp-ai-fc2a0e3f6db?source=rss-3faaaed33b1b------2)
+- [Success of Quick Gratification versus Culture](https://medium.com/@ukidlucas/success-of-quick-gratification-versus-culture-e270858678e9?source=rss-3faaaed33b1b------2)
+- [What have I learned from Chinghis Khan?](https://medium.com/@ukidlucas/what-have-i-learned-from-chinghis-khan-a4bc2d950f31?source=rss-3faaaed33b1b------2)
+- [Battle of (with?) the PRO tablets](https://medium.com/@ukidlucas/battle-of-with-the-tablets-f1284edda66c?source=rss-3faaaed33b1b------2)
+- [Your Value after the A.I. Singularity Event](https://medium.com/datadriveninvestor/what-will-have-value-post-singularity-82f75d8c7442?source=rss-3faaaed33b1b------2)
 <!-- BLOG-POST-LIST:END -->
 ---
 - [Distributed Artificial Intelligence.](https://medium.com/@ukidlucas/distributed-machine-learning-and-gp-ai-fc2a0e3f6db)
