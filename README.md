@@ -8,16 +8,16 @@
 Here are some ideas to get you started:
 
 - 🔭  &nbsp; &nbsp; I’m currently working on **"Stock Market Indicators" machine learning**.
-- 🌱  I’m currently learning **Julia language** programming
-- 👯  You can chat with me on [LinkedIn][linkedin]
+- 🌱  &nbsp;  I’m currently learning **Julia language** programming
+- 👯  &nbsp; You can chat with me on [LinkedIn][linkedin]
 
-- 💬  Ask me about joing your startup as a mentor.
-- 📫  How to reach me: [LinkedIn][linkedin]
-- :dizzy_face: Pronouns: Look at my picture.
+- 💬   &nbsp; Ask me about joing your startup as a mentor.
+- 📫   &nbsp; How to reach me: [LinkedIn][linkedin]
+- :dizzy_face:  &nbsp;  Pronouns: Look at my picture.
 
 <!--
-- ⚡ Fun fact: ...
-- 🤔 I’m looking for help with ...
+- ⚡  &nbsp;  Fun fact: ...
+- 🤔  &nbsp; I’m looking for help with ...
  -->
 
  
