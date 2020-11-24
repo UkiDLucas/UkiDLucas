@@ -1,23 +1,20 @@
 ### Under CONSTRUCTION 👋
 
-<!--
-**UkiDLucas/UkiDLucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on **"Stock Market Indicators" machine learning**.
+- 🌱 I’m currently learning **Julia language** programming
+- 👯 You can chat with me on [LinkedIn][linkedin]
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: [LinkedIn][linkedin]
+- 😄 Pronouns: Look at my picture.
 - ⚡ Fun fact: ...
--->
+ 
 
-
-
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+ 
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
@@ -116,12 +113,12 @@ Here are some ideas to get you started:
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://github.com/UkiDLucas
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/UkiDLucas
+[youtube]: https://youtube.com/UkiDLucas
+[instagram]: https://instagram.com/UkiDLucas
+[linkedin]: https://linkedin.com/in/UkiDLucas
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
