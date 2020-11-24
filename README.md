@@ -42,6 +42,7 @@ Complete list of emoji:
 https://gist.github.com/rxaviers/7360908
 -->
 
+<br />
 <div>
   <img align="left" 
    alt="Uki's GitHub Stats" 
@@ -56,6 +57,8 @@ https://gist.github.com/rxaviers/7360908
 </div>
 
 <br />
+<br />
+
 ---
 
 
