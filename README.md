@@ -1,14 +1,13 @@
-### Under CONSTRUCTION 👋
-### Welcome to Uki's GitHub
+## Welcome to Uki's GitHub
 
-## I am a System Architect at work and a software / AI developer in my free time.
+### I am a System Architect at work and a software / AI developer in my free time.
 
 
  
 
 Here are some ideas to get you started:
 
-- 🔭 <space> I’m currently working on **"Stock Market Indicators" machine learning**.
+- 🔭 $~$ I’m currently working on **"Stock Market Indicators" machine learning**.
 - 🌱  I’m currently learning **Julia language** programming
 - 👯  You can chat with me on [LinkedIn][linkedin]
 
