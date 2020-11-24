@@ -3,13 +3,17 @@
 #### About Uki 
 I am a System Architect at work and a software / AI developer in my free time.
 
+<div>
   <img align="left" 
    alt="Uki's GitHub Stats" 
    src="https://github-readme-stats.vercel.app/api?username=UkiDLucas&show_icons=true&hide_border=true" 
    />
+</div>
+
+
+<br />
 
 ---
-<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
