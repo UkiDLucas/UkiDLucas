@@ -92,41 +92,19 @@ https://gist.github.com/rxaviers/7360908
 
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!-- 
-1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
--->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" 
+   alt="Uki's GitHub Stats" 
+   src="https://github-readme-stats.ukidlucas.vercel.app/api?username=UkiDLucas&show_icons=true&hide_border=true" 
+   />
 
 </details>
 
 
-<!-- YOUTUBE:START -->
-<!--
-### 📺 Latest YouTube Videos
 
-
-- [D](https://www.youtube.com/watch?v=RD2mxxchCCo)
-- [Responsive Mega Menu and Multi Level Dropdown | Animations | HTML, CSS, & JavaScript Tutorial (2020)](https://www.youtube.com/watch?v=8qO5QmD5gfM)
-- [Best Explanation of JavaScript Null vs Undefined! #shorts](https://www.youtube.com/watch?v=fCGswW7fruY)
-- [Top VS Code Updates | v1.51 Released!! | Tips & Tricks 2020](https://www.youtube.com/watch?v=Vt7omOyyjrc)
-- [Learn JavaScript Equality Fast! #shorts](https://www.youtube.com/watch?v=fHP-A5Q-C7s)
-
-➡️ [more videos...](https://youtube.com/codestackr)
--->
-<!-- YOUTUBE:END -->
 
 
 
