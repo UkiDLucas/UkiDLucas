@@ -6,29 +6,35 @@
 ### Connect with me:
 
 [<img align="left" alt="UkiDLucas" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="UkiDLucas | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="UkiDLucas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="UkiDLucas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!--
 [<img align="left" alt="UkiDLucas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="UkiDLucas | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+-->
 
+<br />
 <br />
 
 
-📫  &nbsp; Reach me on [LinkedIn][linkedin] <br/>
+📫  &nbsp; Write to me on [LinkedIn][linkedin] <br/>
 💬  &nbsp; Ask me about joing your startup as a mentor. <br/>
 🔭  &nbsp; Researching **"Market Indicators"** machine learning. <br/>
 🌱  &nbsp; Learning **Julia language** programming<br/>
 💥  &nbsp; Fun fact: I have build a cabin Up North of Michigan <br/>
 🙈  &nbsp; Prefered Pronouns: who, what, which, and whose <br/>
 <br/>
+<br />
 <!--
 Complete list of emoji:
 https://gist.github.com/rxaviers/7360908
- -->
+ 
 
  
 
 [![Website](https://img.shields.io/website?label=UkiDLucas&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+-->
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/UkiDLucas?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FUkiDLucas&screen_name=UkiDLucas)
 
 <!--
@@ -39,7 +45,7 @@ https://gist.github.com/rxaviers/7360908
 
 
 
-### Languages and Tools:
+### Languages and tools I use:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
@@ -63,6 +69,7 @@ https://gist.github.com/rxaviers/7360908
 
 ---
 
+<!--
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -73,7 +80,11 @@ https://gist.github.com/rxaviers/7360908
 - [Learn JavaScript Equality Fast! #shorts](https://www.youtube.com/watch?v=fHP-A5Q-C7s)
 <!-- YOUTUBE:END -->
 
+
 ➡️ [more videos...](https://youtube.com/codestackr)
+
+-->
+
 
 ---
 
