@@ -3,7 +3,7 @@
 #### About Uki 
 At work, I am a System Architect working on the **Advanced Driver Assistance Systems (ADAS)**.
 
-In my free time I work on the programming projects and I read or listen to a lot of books.
+In my free time, I work on the programming projects, and I read or listen to a lot of books.
 
 My current passion are **computer peception, AI and machine learning**.
 
