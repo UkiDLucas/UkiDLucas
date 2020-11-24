@@ -4,19 +4,22 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **"Stock Market Indicators" machine learning**.
-- 🌱 I’m currently learning **Julia language** programming
-- 👯 You can chat with me on [LinkedIn][linkedin]
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [LinkedIn][linkedin]
-- 😄 Pronouns: Look at my picture.
+- 🔭  I’m currently working on **"Stock Market Indicators" machine learning**.
+- 🌱  I’m currently learning **Julia language** programming
+- 👯  You can chat with me on [LinkedIn][linkedin]
+
+- 💬  Ask me about joing your startup as a mentor.
+- 📫  How to reach me: [LinkedIn][linkedin]
+- 😄  Pronouns: Look at my picture.
+
+<!--
 - ⚡ Fun fact: ...
- 
+- 🤔 I’m looking for help with ...
+ -->
 
  
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=UkiDLucas&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
@@ -114,12 +117,7 @@ Here are some ideas to get you started:
 </details>
 
 [website]: https://github.com/UkiDLucas
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/UkiDLucas
 [youtube]: https://youtube.com/UkiDLucas
 [instagram]: https://instagram.com/UkiDLucas
 [linkedin]: https://linkedin.com/in/UkiDLucas
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
