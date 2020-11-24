@@ -33,7 +33,7 @@ https://gist.github.com/rxaviers/7360908
 
 
 #### Blog Posts
-
+<!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
 - [Distributed Machine Learning and GP AI.](https://medium.com/@ukidlucas/distributed-machine-learning-and-gp-ai-fc2a0e3f6db?source=rss-3faaaed33b1b------2)
 - [Success of Quick Gratification versus Culture](https://medium.com/@ukidlucas/success-of-quick-gratification-versus-culture-e270858678e9?source=rss-3faaaed33b1b------2)
@@ -47,6 +47,18 @@ https://gist.github.com/rxaviers/7360908
 - [my medium.com ...][medium]
 
 ---
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ukidlucas&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ukidlucas&repo=convoychat" />
+</a>
+
+
+
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/UkiDLucas?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FUkiDLucas&screen_name=UkiDLucas)
  
