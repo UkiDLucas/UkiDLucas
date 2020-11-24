@@ -23,7 +23,8 @@ My current passion are **computer peception, AI and machine learning**.
        />
   </td>
 </tr>
-  <tr>
+<!--
+<tr>
   <td>
     <img alt="Time" 
        src="https://github-readme-stats.vercel.app/api/wakatime?username=UkiDLucas" 
@@ -32,6 +33,7 @@ My current passion are **computer peception, AI and machine learning**.
   <td>
   </td>
 </tr> 
+-->
 <table>
    
 
