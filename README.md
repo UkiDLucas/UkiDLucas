@@ -52,7 +52,7 @@ My current passion are **computer peception, AI and machine learning**.
 <br />
 
 📫  &nbsp; Write to me on [LinkedIn][linkedin] <br/>
-🔭  &nbsp; I am currently working on [**"Market Indicators"** machine learning written in Julia](https://github.com/UkiDLucas/MarketIndicators.jl). <br/>
+🔭  &nbsp; I am currently working on [**"Market Indicators"**](https://github.com/UkiDLucas/MarketIndicators.jl) machine learning written in Julia. <br/>
 🌱  &nbsp; In 2020, I have learned [**Julia programming language**](https://github.com/UkiDLucas/UkiDLucas.github.io/tree/master/content/Julia). <br/>
 
 <!-- Complete list of emoji: https://gist.github.com/rxaviers/7360908 -->
