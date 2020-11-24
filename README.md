@@ -28,6 +28,15 @@ My current passion are **computer peception, AI and machine learning**.
 
 <br />
 
+
+
+      <img alt="Time" 
+       src="https://github-readme-stats.vercel.app/api/wakatime?username=UkiDLucas" 
+       />
+
+
+
+
 ---
 
 #### Connect with Uki:
