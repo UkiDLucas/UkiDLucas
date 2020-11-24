@@ -52,8 +52,7 @@ https://gist.github.com/rxaviers/7360908
        alt="Uki's GitHub Stats" 
        src="https://github-readme-stats.vercel.app/api?username=UkiDLucas&show_icons=true&hide_border=true&count_private=true" 
        />
-  </td>
-  <td>
+
       <img align="right" 
        alt="Uki's GitHub Stats" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=UkiDLucas&langs_count=9&hide=HTML&count_private=true" 
