@@ -3,20 +3,6 @@
 #### About Uki 
 I am a System Architect at work and a software / AI developer in my free time.
 
-<div>
-  <img align="left" 
-   alt="Uki's GitHub Stats" 
-   src="https://github-readme-stats.vercel.app/api?username=UkiDLucas&show_icons=true&hide_border=true&count_private=true" 
-   />
-</div>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UkiDLucas&langs_count=9&hide=HTML&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-<br />
 
 ---
 
@@ -55,6 +41,21 @@ I am a System Architect at work and a software / AI developer in my free time.
 Complete list of emoji:
 https://gist.github.com/rxaviers/7360908
 -->
+
+<div>
+  <img align="left" 
+   alt="Uki's GitHub Stats" 
+   src="https://github-readme-stats.vercel.app/api?username=UkiDLucas&show_icons=true&hide_border=true&count_private=true" 
+   />
+</div>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UkiDLucas&langs_count=9&hide=HTML&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+<br />
 
 
 
