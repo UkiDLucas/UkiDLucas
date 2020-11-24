@@ -82,7 +82,7 @@ My current passion are **computer peception, AI and machine learning**.
 </details>
 
 <br />
-
+---
 
 
 
