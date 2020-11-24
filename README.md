@@ -1,12 +1,12 @@
 ## Welcome to Uki's GitHub
 
 #### About Uki 
-At work, I am a System Architect and a software / AI developer in my free time.
+At work, I am a System Architect working on the **Advanced Driver Assistance Systems (ADAS)**.
 
+In my free time I work on the programming projects and I read or listen to a lot of books.
+My current passion is **AI and machine learning**.
 
 ---
-<br />
-
 
 <table style="border: 1px solid transparent" >
 <tr>
@@ -46,19 +46,23 @@ At work, I am a System Architect and a software / AI developer in my free time.
 <br />
 
 📫  &nbsp; Write to me on [LinkedIn][linkedin] <br/>
-💬  &nbsp; Ask me about joing your startup as a mentor. <br/>
 
+<!-- Complete list of emoji: https://gist.github.com/rxaviers/7360908 -->
 <details>
-  <summary>:zap: more info</summary>
+  <summary>:zap: more details..</summary>
+  
+💬  &nbsp; Ask me about joing your startup as a mentor. <br/>
 🔭  &nbsp; Researching **"Market Indicators"** machine learning. <br/>
 🌱  &nbsp; Learning **Julia language** programming<br/>
 💥  &nbsp; Fun fact: I have build a cabin Up North of Michigan <br/>
 🙈  &nbsp; Prefered Pronouns: who, what, which, and whose <br/>
+
 </details>
+
+
+
 <br />
-<br/>
-<br />
-<!-- Complete list of emoji: https://gist.github.com/rxaviers/7360908 -->
+
 
 
 
