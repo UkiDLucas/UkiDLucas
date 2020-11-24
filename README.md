@@ -35,6 +35,8 @@ My current passion are **computer peception, AI and machine learning**.
 <br />
 
 📫  &nbsp; Write to me on [LinkedIn][linkedin] <br/>
+🔭  &nbsp; I am currently working on [**"Market Indicators"** machine learning written in Julia](https://github.com/UkiDLucas/MarketIndicators.jl). <br/>
+🌱  &nbsp; In 2020, I have learned [**Julia programming language**](https://github.com/UkiDLucas/UkiDLucas.github.io/tree/master/content/Julia). <br/>
 
 <!-- Complete list of emoji: https://gist.github.com/rxaviers/7360908 -->
 <details>
@@ -42,9 +44,7 @@ My current passion are **computer peception, AI and machine learning**.
   
   <br />
   
-💬  &nbsp; Ask me about joing your startup as a mentor. <br/>
-🔭  &nbsp; I am currently working on [**"Market Indicators"** machine learning written in Julia](https://github.com/UkiDLucas/MarketIndicators.jl). <br/>
-🌱  &nbsp; In 2020, I have learned [**Julia programming language**](https://github.com/UkiDLucas/UkiDLucas.github.io/tree/master/content/Julia). <br/>
+💬  &nbsp; Ask me to join your startup as a mentor. <br/>
 💥  &nbsp; Fun fact: In 2020, I have build a cabin Up North of Michigan <br/>
 🙈  &nbsp; Prefered Pronouns: who, what, which, and whose <br/>
 
