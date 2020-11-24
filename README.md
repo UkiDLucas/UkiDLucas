@@ -11,6 +11,10 @@ I am a System Architect at work and a software / AI developer in my free time.
 </div>
 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=UkiDLucas)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <br />
 
 ---
