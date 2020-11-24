@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭  I’m currently working on **"Stock Market Indicators" machine learning**.
+- 🔭  &nbsp: I’m currently working on **"Stock Market Indicators" machine learning**.
 - 🌱  I’m currently learning **Julia language** programming
 - 👯  You can chat with me on [LinkedIn][linkedin]
 
