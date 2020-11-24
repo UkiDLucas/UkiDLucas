@@ -4,12 +4,8 @@
 I am a System Architect at work and a software / AI developer in my free time.
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ukidlucas&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ukidlucas&repo=convoychat" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UkiDLucas&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UkiDLucas&repo=convoychat" />
 
 
 
