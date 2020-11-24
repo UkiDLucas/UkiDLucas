@@ -40,6 +40,9 @@ https://gist.github.com/rxaviers/7360908
 - [What have I learned from Chinghis Khan?](https://medium.com/@ukidlucas/what-have-i-learned-from-chinghis-khan-a4bc2d950f31?source=rss-3faaaed33b1b------2)
 - [Battle of (with?) the PRO tablets](https://medium.com/@ukidlucas/battle-of-with-the-tablets-f1284edda66c?source=rss-3faaaed33b1b------2)
 - [Your Value after the A.I. Singularity Event](https://medium.com/datadriveninvestor/what-will-have-value-post-singularity-82f75d8c7442?source=rss-3faaaed33b1b------2)
+- [What is next for Elon Musk?](https://medium.com/@ukidlucas/what-is-next-for-elon-musk-d5d59d59b237?source=rss-3faaaed33b1b------2)
+- [Cars, the new mobile platform frontier](https://medium.com/@ukidlucas/cars-the-new-mobile-platform-frontier-8f351003854a?source=rss-3faaaed33b1b------2)
+- [Virtual Personal Assistant](https://medium.com/@ukidlucas/vpa-7dacef83e90d?source=rss-3faaaed33b1b------2)
 <!-- BLOG-POST-LIST:END -->
 ---
 - [Distributed Artificial Intelligence.](https://medium.com/@ukidlucas/distributed-machine-learning-and-gp-ai-fc2a0e3f6db)
