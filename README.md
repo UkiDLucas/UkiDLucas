@@ -1,16 +1,20 @@
 ### Under CONSTRUCTION 👋
+### Welcome to Uki's GitHub
+
+## I am a System Architect at work and a software / AI developer in my free time.
+
 
  
 
 Here are some ideas to get you started:
 
-- 🔭  &nbsp: I’m currently working on **"Stock Market Indicators" machine learning**.
+- 🔭  I’m currently working on **"Stock Market Indicators" machine learning**.
 - 🌱  I’m currently learning **Julia language** programming
 - 👯  You can chat with me on [LinkedIn][linkedin]
 
 - 💬  Ask me about joing your startup as a mentor.
 - 📫  How to reach me: [LinkedIn][linkedin]
-- 😄  Pronouns: Look at my picture.
+- :dizzy_face: Pronouns: Look at my picture.
 
 <!--
 - ⚡ Fun fact: ...
@@ -22,7 +26,7 @@ Here are some ideas to get you started:
 [![Website](https://img.shields.io/website?label=UkiDLucas&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
