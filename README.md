@@ -9,11 +9,12 @@ My current passion are **computer peception, AI and machine learning**.
 
 ---
 #### Statistics 
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 <table style="border: 1px solid transparent" >
 <tr>
   <td>
       <img alt="Github Stats" 
-       src="https://github-readme-stats.vercel.app/api?username=UkiDLucas&show_icons=true&hide_border=true&count_private=true" 
+       src="https://github-readme-stats.vercel.app/api?username=UkiDLucas&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" 
        />
   </td>
   <td>
