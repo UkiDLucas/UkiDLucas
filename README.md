@@ -31,15 +31,6 @@ My current passion are **computer peception, AI and machine learning**.
 
 #### Connect with Uki:
 
-[<img align="left" alt="UkiDLucas" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="UkiDLucas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="UkiDLucas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!--
-[<img align="left" alt="UkiDLucas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="UkiDLucas | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
--->
-
-<br />
 <br />
 
 📫  &nbsp; Write to me on [LinkedIn][linkedin] <br/>
@@ -53,6 +44,16 @@ My current passion are **computer peception, AI and machine learning**.
 🌱  &nbsp; Learning **Julia language** programming<br/>
 💥  &nbsp; Fun fact: I have build a cabin Up North of Michigan <br/>
 🙈  &nbsp; Prefered Pronouns: who, what, which, and whose <br/>
+
+
+
+[<img align="left" alt="UkiDLucas" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="UkiDLucas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="UkiDLucas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!--
+[<img align="left" alt="UkiDLucas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="UkiDLucas | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+-->
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/UkiDLucas?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FUkiDLucas&screen_name=UkiDLucas)
