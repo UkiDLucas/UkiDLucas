@@ -4,9 +4,19 @@
 I am a System Architect at work and a software / AI developer in my free time.
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UkiDLucas&repo=github-readme-stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UkiDLucas&repo=convoychat" />
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=UkiDLucas&repo=github-readme-stats" /><br />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=UkiDLucas&repo=convoychat" />
+
+  <img align="left" 
+   alt="Uki's GitHub Stats" 
+   src="https://github-readme-stats.vercel.app/api?username=UkiDLucas&show_icons=true&hide_border=true" 
+   />
+
+</details>
 
 
 
@@ -102,15 +112,7 @@ https://gist.github.com/rxaviers/7360908
 
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" 
-   alt="Uki's GitHub Stats" 
-   src="https://github-readme-stats.ukidlucas.vercel.app/api?username=UkiDLucas&show_icons=true&hide_border=true" 
-   />
-
-</details>
 
 
 
