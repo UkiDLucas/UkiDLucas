@@ -24,7 +24,7 @@ My current passion are **computer peception, AI and machine learning**.
   </td>
 </tr>
 
-
+<!--
 <tr>
   <td>
     <img alt="Time" 
@@ -34,7 +34,7 @@ My current passion are **computer peception, AI and machine learning**.
   <td>
   </td>
 </tr> 
-
+-->
 <table>
    
 
