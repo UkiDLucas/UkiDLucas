@@ -101,14 +101,14 @@ My current passion are **computer peception, AI and machine learning**.
 - [Cars, the new mobile platform frontier](https://medium.com/@ukidlucas/cars-the-new-mobile-platform-frontier-8f351003854a?source=rss-3faaaed33b1b------2)
 - [Virtual Personal Assistant](https://medium.com/@ukidlucas/vpa-7dacef83e90d?source=rss-3faaaed33b1b------2)
 <!-- BLOG-POST-LIST:END -->
-- [my medium.com ...][medium]
+- [UkiDLucas.medium.com ...][medium]
 
 ---
 
  
  
 [website]: https://github.com/UkiDLucas
-[medium]: https://medium.com/@ukidlucas
+[medium]: https://UkiDLucas.medium.com/
 [twitter]: https://twitter.com/UkiDLucas
 [youtube]: https://youtube.com/UkiDLucas
 [instagram]: https://instagram.com/UkiDLucas
