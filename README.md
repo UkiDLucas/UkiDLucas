@@ -91,7 +91,7 @@ My current passion are **computer peception, AI and machine learning**.
 #### Blog Posts
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
-- [Market Indicators — a machine learning project with Julia language.](https://medium.com/@ukidlucas/market-indicators-a-machine-learning-project-with-julia-language-be1a452213f8?source=rss-3faaaed33b1b------2)
+- [Market Indicators — a machine learning project with Julia language.](https://medium.com/datadriveninvestor/market-indicators-a-machine-learning-project-with-julia-language-be1a452213f8?source=rss-3faaaed33b1b------2)
 - [Distributed Machine Learning and GP AI.](https://medium.com/@ukidlucas/distributed-machine-learning-and-gp-ai-fc2a0e3f6db?source=rss-3faaaed33b1b------2)
 - [Success of Quick Gratification versus Culture](https://medium.com/@ukidlucas/success-of-quick-gratification-versus-culture-e270858678e9?source=rss-3faaaed33b1b------2)
 - [What have I learned from Chinghis Khan?](https://medium.com/@ukidlucas/what-have-i-learned-from-chinghis-khan-a4bc2d950f31?source=rss-3faaaed33b1b------2)
