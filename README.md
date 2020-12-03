@@ -91,6 +91,7 @@ My current passion are **computer peception, AI and machine learning**.
 #### Blog Posts
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
+- [Career Roadmap](https://medium.com/@ukidlucas/career-roadmap-c854e81e47a5?source=rss-3faaaed33b1b------2)
 - [Market Indicators — a machine learning project with Julia language.](https://medium.com/datadriveninvestor/market-indicators-a-machine-learning-project-with-julia-language-be1a452213f8?source=rss-3faaaed33b1b------2)
 - [Distributed Machine Learning and GP AI.](https://medium.com/@ukidlucas/distributed-machine-learning-and-gp-ai-fc2a0e3f6db?source=rss-3faaaed33b1b------2)
 - [Success of Quick Gratification versus Culture](https://medium.com/@ukidlucas/success-of-quick-gratification-versus-culture-e270858678e9?source=rss-3faaaed33b1b------2)
@@ -99,7 +100,6 @@ My current passion are **computer peception, AI and machine learning**.
 - [Your Value after the A.I. Singularity Event](https://medium.com/datadriveninvestor/what-will-have-value-post-singularity-82f75d8c7442?source=rss-3faaaed33b1b------2)
 - [What is next for Elon Musk?](https://medium.com/@ukidlucas/what-is-next-for-elon-musk-d5d59d59b237?source=rss-3faaaed33b1b------2)
 - [Cars, the new mobile platform frontier](https://medium.com/@ukidlucas/cars-the-new-mobile-platform-frontier-8f351003854a?source=rss-3faaaed33b1b------2)
-- [Virtual Personal Assistant](https://medium.com/@ukidlucas/vpa-7dacef83e90d?source=rss-3faaaed33b1b------2)
 <!-- BLOG-POST-LIST:END -->
 - [UkiDLucas.medium.com ...][medium]
 
