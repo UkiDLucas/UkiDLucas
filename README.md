@@ -91,6 +91,7 @@ My current passion are **computer peception, AI and machine learning**.
 #### Blog Posts
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
+- [Trollworld](https://medium.com/@ukidlucas/trollworld-db3decf7438?source=rss-3faaaed33b1b------2)
 - [Career Roadmap](https://medium.com/@ukidlucas/career-roadmap-c854e81e47a5?source=rss-3faaaed33b1b------2)
 - [Market Indicators — a machine learning project with Julia language.](https://medium.com/datadriveninvestor/market-indicators-a-machine-learning-project-with-julia-language-be1a452213f8?source=rss-3faaaed33b1b------2)
 - [Distributed Machine Learning and GP AI.](https://medium.com/@ukidlucas/distributed-machine-learning-and-gp-ai-fc2a0e3f6db?source=rss-3faaaed33b1b------2)
