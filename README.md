@@ -91,6 +91,7 @@ My current passion are **computer peception, AI and machine learning**.
 #### Blog Posts
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
+- [Everlasting Youth](https://medium.com/@ukidlucas/everlasting-youth-b3187a3b1f6b?source=rss-3faaaed33b1b------2)
 - [A.I. personal digital peer](https://medium.com/@ukidlucas/a-i-personal-digital-peer-4b954b0d2b5f?source=rss-3faaaed33b1b------2)
 - [AI from fast to wise.](https://medium.com/@ukidlucas/ai-from-fast-to-wise-c2f8342ebdee?source=rss-3faaaed33b1b------2)
 - [3D Printing Revolution](https://medium.com/@ukidlucas/3d-printing-revolution-da5106150283?source=rss-3faaaed33b1b------2)
