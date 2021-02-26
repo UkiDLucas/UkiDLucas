@@ -97,7 +97,6 @@ My current passion are **computer peception, AI and machine learning**.
 - [3D Printing Revolution](https://medium.com/@ukidlucas/3d-printing-revolution-da5106150283?source=rss-3faaaed33b1b------2)
 - [M1](https://medium.com/@ukidlucas/m1-c72ea7b0f0a1?source=rss-3faaaed33b1b------2)
 - [Trollworld](https://medium.com/@ukidlucas/trollworld-db3decf7438?source=rss-3faaaed33b1b------2)
-- [Career Roadmap](https://medium.com/@ukidlucas/career-roadmap-c854e81e47a5?source=rss-3faaaed33b1b------2)
 <!-- BLOG-POST-LIST:END -->
 - [UkiDLucas.medium.com ...][medium]
 
