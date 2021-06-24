@@ -97,6 +97,10 @@ My current passion are **computer peception, AI and machine learning**.
 - [3D Printing Revolution](https://ukidlucas.medium.com/3d-printing-revolution-da5106150283?source=rss-3faaaed33b1b------2)
 - [M1](https://ukidlucas.medium.com/m1-c72ea7b0f0a1?source=rss-3faaaed33b1b------2)
 - [Trollworld](https://ukidlucas.medium.com/trollworld-db3decf7438?source=rss-3faaaed33b1b------2)
+- [Career Roadmap](https://ukidlucas.medium.com/career-roadmap-c854e81e47a5?source=rss-3faaaed33b1b------2)
+- [Market Indicators — a machine learning project with Julia language.](https://medium.datadriveninvestor.com/market-indicators-a-machine-learning-project-with-julia-language-be1a452213f8?source=rss-3faaaed33b1b------2)
+- [Distributed Machine Learning and GP AI.](https://ukidlucas.medium.com/distributed-machine-learning-and-gp-ai-fc2a0e3f6db?source=rss-3faaaed33b1b------2)
+- [Success of Quick Gratification versus Culture](https://ukidlucas.medium.com/success-of-quick-gratification-versus-culture-e270858678e9?source=rss-3faaaed33b1b------2)
 <!-- BLOG-POST-LIST:END -->
 - [UkiDLucas.medium.com ...][medium]
 
