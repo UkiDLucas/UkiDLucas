@@ -1,7 +1,7 @@
 ## Welcome to Uki's GitHub
 
 #### About Uki 
-At work, I am a System Architect working on the **Advanced Driver Assistance Systems (ADAS)**.
+At work, I am an Engineering Manager working on the **Advanced Driver Assistance Systems (ADAS)**.
 
 In my free time, I work on the programming projects, and I read or listen to a lot of books.
 
