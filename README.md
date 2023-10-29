@@ -56,7 +56,7 @@ For the list of my articles, patents, and books, please visit my:
    
 
 <br />
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
  
 
 <!-- Complete list of emoji: https://gist.github.com/rxaviers/7360908 -->
