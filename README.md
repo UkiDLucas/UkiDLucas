@@ -11,7 +11,7 @@ I love reading books, but I spend as much of my free time as possible hiking mou
 
 
 #### Articles
-For the list of my articles, patents, and books over time, please visit my  [my Medium.com][medium], ["Google Scholar"][google scholar] page, or my [blog][url blogger]. 
+For the list of my articles, patents, and books over time, please visit my  [Medium.com][medium], ["Google Scholar"][google scholar] page, or my [blog][url blogger]. 
 
 #### Contact
 Write to me on [LinkedIn][linkedin] <br/>
