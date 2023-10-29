@@ -50,15 +50,6 @@ For the list of my articles, patents, and books, please visit my:
   </td>
 </tr>
  
-<tr>
-  <td>
-    <img alt="Time" 
-       src="https://github-readme-stats.vercel.app/api/wakatime?username=UkiDLucas" 
-       />
-  </td>
-  <td>
-  </td>
-</tr> 
  
 <table>
    
