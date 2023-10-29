@@ -45,7 +45,7 @@ For the list of my articles, patents, and books, please visit my:
   </td>
   <td>
       <img alt="Languages" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=UkiDLucas&layout=pie&langs_count=20&count_private=true&include_all_commits=true&hide_border=true&hide=HTML,JupytherNotebook" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=UkiDLucas&layout=pie&langs_count=20&count_private=true&include_all_commits=true&hide_border=true&hide=HTML,JupytherNotebook&size_weight=0.5&count_weight=0.5" 
        />
     
   </td>
@@ -56,8 +56,17 @@ For the list of my articles, patents, and books, please visit my:
    
 
 <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)
+
+
+
+      <div class="js-calendar-graph mx-md-2 mx-3 d-flex flex-column flex-items-end flex-xl-items-center overflow-hidden pt-1 is-graph-loading graph-canvas ContributionCalendar height-full text-center"
+          data-graph-url="/users/anuraghazra/contributions"
+          data-url="/anuraghazra"
+          data-from="2022-10-23 00:00:00 -0700"
+          data-to="2023-10-29 23:59:59 -0700"
+          data-org=""
+          >
+          
  
 
 <!-- Complete list of emoji: https://gist.github.com/rxaviers/7360908 -->
