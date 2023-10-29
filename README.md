@@ -4,11 +4,12 @@
 
 At work, as a Director of Software and System Engineering, I am working on the **LiDAR technology for Advanced Driver Assistance Systems (ADAS)**.
 
-In my free time, I love to study various subjects, ranging from behavioral studies to sciences, by reading and listening to Audiobooks and YouTube.
+In my free time, I love to study various subjects, ranging from behavioral studies to sciences.
+I love reading books, but I spend as much of my free time as possible hiking mountains, so I mostly listen to audiobooks on Audible and science videos on YouTube.
 
 
 #### Articles
-For the list of my articles, patents, and books over time, please visit my [**"Google Scholar"**][google scholar] page, [my **Medium.com**][medium], or my [**blog**][url blogger]. 
+For the list of my articles, patents, and books over time, please visit my  [my Medium.com][medium], ["Google Scholar"][google scholar] page, or my [blog][url blogger]. 
 
 #### Contact
 Write to me on [LinkedIn][linkedin] <br/>
