@@ -45,7 +45,7 @@ For the list of my articles, patents, and books, please visit my:
   </td>
   <td>
       <img alt="Languages" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=UkiDLucas&hide_border=true&langs_count=9&count_private=true&layout=compact&include_all_commits=true&hide=Jupyther+Notebook" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=UkiDLucas&hide_border=true&langs_count=9&count_private=true&layout=compact&include_all_commits=true&hide=HTML,Jupyther%20Notebook" 
        />
   </td>
 </tr>
