@@ -32,7 +32,6 @@ For the list of my articles, patents, and books over time, please visit my:
 -->
 
 
----
 #### Statistics 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <table style="border: 1px solid transparent" >
@@ -78,33 +77,7 @@ For the list of my articles, patents, and books over time, please visit my:
 
 
 <!-- Complete list of emoji: https://gist.github.com/rxaviers/7360908 -->
-<details>
-  <summary>:zap: more details..</summary>
-  
-  <br />
-  
 
-
-
-
-
-
-
-<br />
-
-
-
-</details>
-
-<br />
----
-
-
-
-
-
-
----
 
  
  
