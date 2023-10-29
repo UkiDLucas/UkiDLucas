@@ -45,7 +45,7 @@ For the list of my articles, patents, and books, please visit my:
   </td>
   <td>
       <img alt="Languages" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=UkiDLucas&hide_border=true&langs_count=9&count_private=true&layout=compact&include_all_commits=true&hide=Jupyther Notebook" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=UkiDLucas&hide_border=true&langs_count=9&count_private=true&layout=compact&include_all_commits=true&hide=Jupyther+Notebook" 
        />
   </td>
 </tr>
@@ -55,18 +55,7 @@ For the list of my articles, patents, and books, please visit my:
    
 
 <br />
-
-
-[![Uki's GitHub stats](https://github-readme-stats.vercel.app/api?username=UkiDLucas)](https://github.com/anuraghazra/github-readme-stats)
-
-#### Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UkiDLucas&hide=md)
-
-
-
-
-
-
+ 
 
 <!-- Complete list of emoji: https://gist.github.com/rxaviers/7360908 -->
 
