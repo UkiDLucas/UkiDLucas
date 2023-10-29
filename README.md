@@ -57,7 +57,7 @@ For the list of my articles, patents, and books, please visit my:
 <br />
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UkiDLucas)](https://github.com/anuraghazra/github-readme-stats)
+[![Uki's GitHub stats](https://github-readme-stats.vercel.app/api?username=UkiDLucas)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
