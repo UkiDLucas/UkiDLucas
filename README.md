@@ -49,8 +49,7 @@ For the list of my articles, patents, and books, please visit my:
        />
   </td>
 </tr>
-
-<!--
+ 
 <tr>
   <td>
     <img alt="Time" 
@@ -60,7 +59,7 @@ For the list of my articles, patents, and books, please visit my:
   <td>
   </td>
 </tr> 
--->
+ 
 <table>
    
 
