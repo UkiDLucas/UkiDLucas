@@ -56,7 +56,7 @@ For the list of my articles, patents, and books, please visit my:
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UkiDLucasa&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UkiDLucas&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
  
 
