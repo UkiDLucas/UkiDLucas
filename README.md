@@ -59,6 +59,9 @@ For the list of my articles, patents, and books, please visit my:
 
 [![Uki's GitHub stats](https://github-readme-stats.vercel.app/api?username=UkiDLucas)](https://github.com/anuraghazra/github-readme-stats)
 
+#### Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UkiDLucas&hide=md)
+
 
 
 
