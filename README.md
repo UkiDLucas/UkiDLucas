@@ -17,9 +17,9 @@ I love reading books, but since I spend as much of my free time as possible skii
 
 
 #### Articles
-For the list of my articles, patents, and books over time, please visit my:  
+For the list of my articles, patents, and books, please visit my:  
 - [Medium.com][medium]
-- ["Google Scholar"][google scholar] 
+- [Google Scholar][google scholar] 
 - [blog][url blogger]
 
 
