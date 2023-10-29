@@ -1,5 +1,11 @@
 ## Welcome to Uki's GitHub
 
+
+#### Contact
+Write to me on [LinkedIn][linkedin] <br/>
+🙈  &nbsp; Prefered Pronouns: who, what, which, and whose <br/>
+
+
 #### About Uki 
 
 At work, as a Director of Software and System Engineering, I am working on the **LiDAR technology for Advanced Driver Assistance Systems (ADAS)**.
@@ -11,11 +17,11 @@ I love reading books, but since I spend as much of my free time as possible skii
 
 
 #### Articles
-For the list of my articles, patents, and books over time, please visit my  [Medium.com][medium], ["Google Scholar"][google scholar] page, or my [blog][url blogger]. 
+For the list of my articles, patents, and books over time, please visit my:  
+- [Medium.com][medium]
+- ["Google Scholar"][google scholar] 
+- [blog][url blogger]
 
-#### Contact
-Write to me on [LinkedIn][linkedin] <br/>
-🙈  &nbsp; Prefered Pronouns: who, what, which, and whose <br/>
 
 [<img align="left" alt="UkiDLucas" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="UkiDLucas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
