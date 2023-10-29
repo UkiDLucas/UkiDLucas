@@ -7,7 +7,7 @@ At work, as a Director of Software and System Engineering, I am working on the *
 In my free time, I love to study various subjects, ranging from behavioral studies to sciences.
 I love reading books, but I spend as much of my free time as possible hiking mountains, so I mostly listen to audiobooks on Audible and science videos on YouTube.
 
-[<img src="[image.png](https://github.com/UkiDLucas/UkiDLucas/blob/main/Audible.png)" width="250"/>]([image.png](https://github.com/UkiDLucas/UkiDLucas/blob/main/Audible.png))
+[<img src="https://github.com/UkiDLucas/UkiDLucas/blob/main/Audible.png" width="250" />]( https://github.com/UkiDLucas/UkiDLucas/blob/main/Audible.png )
 
 
 #### Articles
