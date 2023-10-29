@@ -20,7 +20,7 @@ I love reading books, but since I spend as much of my free time as possible skii
 For the list of my articles, patents, and books, please visit my:  
 - [Medium.com][medium]
 - [Google Scholar][google scholar] 
-- [blog][url blogger]
+- [Blogger][url blogger]
 
 
 [<img align="left" alt="UkiDLucas" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -45,7 +45,7 @@ For the list of my articles, patents, and books, please visit my:
   </td>
   <td>
       <img alt="Languages" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=UkiDLucas&hide_border=true&langs_count=20&count_private=true&layout=compact&include_all_commits=true&hide=HTML" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=UkiDLucas&layout=pie&hide_border=true&langs_count=20&count_private=true&layout=compact&include_all_commits=true&hide=HTML" 
        />
   </td>
 </tr>
@@ -57,6 +57,7 @@ For the list of my articles, patents, and books, please visit my:
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UkiDLucas&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
  
 
