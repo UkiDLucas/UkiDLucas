@@ -45,7 +45,7 @@ For the list of my articles, patents, and books, please visit my:
   </td>
   <td>
       <img alt="Languages" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=UkiDLucas&layout=donut-vertical&hide_border=true&langs_count=20&count_private=true&layout=compact&include_all_commits=true&hide=HTML" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=UkiDLucas&hide_border=true&langs_count=20&count_private=true&layout=compact&include_all_commits=true&hide=HTML" 
        />
   </td>
 </tr>
@@ -56,7 +56,6 @@ For the list of my articles, patents, and books, please visit my:
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UkiDLucas&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
  
