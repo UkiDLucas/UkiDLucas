@@ -3,7 +3,7 @@
 
 #### Contact
 Write to me on [LinkedIn][linkedin] <br/>
-🙈  &nbsp; Prefered Pronouns: who we what where which when <br/>
+🙈  &nbsp; Prefered Pronouns: who, we, what, where, which, when <br/>
 
 
 #### About Uki 
