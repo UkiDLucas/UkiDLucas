@@ -10,7 +10,8 @@ Write to me on [LinkedIn][linkedin] <br/>
 
 At work, as a Director of Software and System Engineering, I am working on the **LiDAR technology for Advanced Driver Assistance Systems (ADAS)**.
 
-<TABLE border="none" >
+<style> table.example-table, .example-table td { border: 1px solid green; border-collapse: collapse; } </style>
+<TABLE class="example-table" >
 <TR>
 <TD valign="top" >
 In my free time, I love to study various subjects ranging from **behavioral studies** to sciences.
