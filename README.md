@@ -3,14 +3,14 @@
 
 #### Contact
 Write to me on [LinkedIn][linkedin] <br/>
-🙈  &nbsp; Prefered Pronouns: who, we, what, where, which, when <br/>
+🙈  &nbsp; Prefered Pronouns: Who? We? What! Where? Which? When? <br/>
 
 
 #### About Uki 
 
 At work, as a Director of Software and System Engineering, I am working on the **LiDAR technology for Advanced Driver Assistance Systems (ADAS)**.
 
-In my free time, I love to study various subjects ranging from behavioral studies to sciences.
+In my free time, I love to study various subjects ranging from **behavioral studies** to sciences.
 
 I love reading books, but since I spend as much of my free time as possible skiing and hiking mountains, I mostly listen to audiobooks on Audible and science videos on YouTube.
 
