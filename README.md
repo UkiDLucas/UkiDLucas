@@ -11,10 +11,10 @@ Write to me on [LinkedIn][linkedin] <br/>
 At work, as a Director of Software and System Engineering, I am working on the **LiDAR technology for Advanced Driver Assistance Systems (ADAS)**.
 
 
-<TABLE border="0" cellspacing="3" >
+<TABLE border="0" cellspacing="10" >
 <TR>
 <TD valign="top" >
-In my free time, I love to study various subjects ranging from **behavioral studies** to sciences.
+In my free time, I love to study various subjects ranging from behavioral studies to sciences.
 <br/>
 <br/>
 I love reading books, but since I spend as much of my free time as possible skiing and hiking mountains, I mostly listen to audiobooks on Audible and science videos on YouTube.
