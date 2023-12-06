@@ -12,7 +12,7 @@ At work, as a Director of Software and System Engineering, I am working on the *
 
 <TABLE border=0 >
 <TR>
-<TD align=top >
+<TD valign="top" >
 In my free time, I love to study various subjects ranging from **behavioral studies** to sciences.
 <br/>
 <br/>
