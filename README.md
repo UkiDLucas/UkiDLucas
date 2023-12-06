@@ -10,7 +10,7 @@ Write to me on [LinkedIn][linkedin] <br/>
 
 At work, as a Director of Software and System Engineering, I am working on the **LiDAR technology for Advanced Driver Assistance Systems (ADAS)**.
 
-<TABLE border="0" >
+<TABLE border="0px" >
 <TR>
 <TD valign="top" >
 In my free time, I love to study various subjects ranging from **behavioral studies** to sciences.
