@@ -50,7 +50,7 @@ For the list of my articles, patents, and books, please visit my:
 <tr>
   <td>
       <img alt="Github Stats" 
-       src="https://github-readme-stats.vercel.app/api?username=UkiDLucas&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs" 
+       src="https://github-readme-stats.vercel.app/api?username=UkiDLucas&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" 
        />
   </td>
   <td>
