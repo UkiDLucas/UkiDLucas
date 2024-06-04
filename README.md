@@ -1,14 +1,6 @@
-## Welcome to Uki's GitHub
+### About Uki 
 
-
-#### Contact
-Write to me on [LinkedIn][linkedin] <br/>
-🙈  &nbsp; Prefered Pronouns: Who? We? What! Where? Which? When? <br/>
-
-
-#### About Uki 
-
-At work, as a Director of Software and System Engineering, I am working on the **LiDAR technology for Advanced Driver Assistance Systems (ADAS)**.
+ a Director of Software and System Engineering, I am working on the **LiDAR technology for Advanced Driver Assistance Systems (ADAS)**.
 
 
 <TABLE style="border: 0px solid transparent" cellspacing="10" >
@@ -20,17 +12,23 @@ In my free time, I love to study various subjects ranging from behavioral studie
 I love reading books, but since I spend as much of my free time as possible skiing and hiking mountains, I mostly listen to audiobooks on Audible and science videos on YouTube.
 </TD>
 <TD>
-<img src="https://github.com/UkiDLucas/UkiDLucas/blob/main/Audible.png" width="250" />
+<img src="https://github.com/UkiDLucas/UkiDLucas/blob/main/audible.jpg" width="250" />
 </TD>
 </TR>
 </TABLE>
 
 
-#### Articles
-For the list of my articles, patents, and books, please visit my:  
-- [Medium.com][medium]
-- [Google Scholar][google scholar] 
-- [Blogger][url blogger]
+#### My Articles 
+-  [Welcome! A soul-baring story.](https://ukidlucas.beehiiv.com/p/welcome)
+-  [#3 Are you considering entry into the autonomous vehicle industry?](https://ukidlucas.beehiiv.com/p/entering-autonomous-vehicle-industry-start-3)
+-  [#4. How did thousands of my blog posts become an AI avatar?](https://ukidlucas.beehiiv.com/p/thousands-blog-posts-became-ai-avatar-4)
+-  [#7. Why should you make a human connection, not a "quid pro quo" proposition, to assure a successful (business) relationship?](https://ukidlucas.beehiiv.com/p/7-make-human-connection-not-quid-pro-quo-proposition)
+-  [#14. What can I offer you? More than you'd see on the surface!](https://ukidlucas.beehiiv.com/p/14-can-offer-youd-see-surface)
+-  [#15. Finding Zen in Motion: The Power of Active Meditation](https://ukidlucas.beehiiv.com/p/finding-zen-motion-power-active-meditation)
+-  [#16. How can you ensure your career is both satisfying and progressing?](https://ukidlucas.beehiiv.com/p/16-can-ensure-career-satisfying-progressing)
+-  [#17. The 15-minute rule](https://ukidlucas.beehiiv.com/p/17-15minute-rule)
+-  
+
 
 
 [<img align="left" alt="UkiDLucas" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -67,7 +65,10 @@ For the list of my articles, patents, and books, please visit my:
 
 <br />
  
-          
+
+#### Contact
+Write to me on [LinkedIn][linkedin] <br/>
+🙈  &nbsp; Prefered Pronouns: Who? We? What! Where? Which? When? <br/>        
  
 
 <!-- Complete list of emoji: https://gist.github.com/rxaviers/7360908 -->
@@ -82,4 +83,3 @@ For the list of my articles, patents, and books, please visit my:
 [instagram]: https://instagram.com/UkiDLucas
 [linkedin]: https://linkedin.com/in/UkiDLucas
 [google scholar]: https://scholar.google.com/citations?hl=en&user=hBKIwg4AAAAJ&view_op=list_works&sortby=pubdate
-[url blogger]: https://uki.blogspot.com/
