@@ -1,3 +1,5 @@
+cat README.md | pandoc --from markdown  --toc -s  --to markdown -
+
 ## About myself 
 
 As the **Software, Firmware, and System Engineering director**, I work on LiDAR technology for Advanced Driver Assistance Systems (ADAS) in the **Autonomous Vehicle** industry.
@@ -9,7 +11,7 @@ Since I spend much of **my free time** outdoors, skiing and hiking **mountains**
 
 <img src="https://github.com/UkiDLucas/UkiDLucas/blob/main/audible.jpg" width="250" />
 
-
+<hr/>
 
 ## My Articles 
 -  [Welcome! A soul-baring story.](https://ukidlucas.beehiiv.com/p/welcome)
