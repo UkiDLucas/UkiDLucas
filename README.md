@@ -33,6 +33,9 @@ Since I spend much of **my free time** outdoors, skiing and hiking **mountains**
 <a name="articles"/>
 
 ## My Articles 
+
+I write because I love the **art of writing** and because I strongly believe in **mentoring**.
+
 -  [Welcome! A soul-baring story.](https://ukidlucas.beehiiv.com/p/welcome)
 -  [#1. Why do you need an **experienced mentor**?](https://ukidlucas.beehiiv.com/p/uki-d-lucas-adventures-science-meditations-1)
 -  [#2 Why **writing is the most important skill** for your career?](https://ukidlucas.beehiiv.com/p/important-skill-career-startup-personal-growth)
