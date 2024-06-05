@@ -1,3 +1,4 @@
+<!--
 ## Table of Contents  
 - [Headers](#about) 
 - [Articles](#articles)
@@ -5,6 +6,7 @@
 - [Subscribe](#subscribe)
 - [Contact me](contact)
 - [Statistics](statistics)
+-->
  
 
 <br/>
