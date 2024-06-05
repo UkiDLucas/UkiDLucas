@@ -7,7 +7,7 @@
 - [Statistics](statistics)
  
 
-<hr/>
+<br/>
 
 
 <a name="about" />
@@ -23,7 +23,7 @@ Since I spend much of **my free time** outdoors, skiing and hiking **mountains**
 
 <img src="https://github.com/UkiDLucas/UkiDLucas/blob/main/audible.jpg" width="250" />
 
-<hr/>
+<hr style="border: 0px solid light-gray; color: light-gray; width: 60%;" />
 
 <a name="articles"/>
 
