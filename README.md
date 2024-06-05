@@ -81,9 +81,10 @@ I write because I love the **art of writing** and because I strongly believe in 
  
  [Subscribe](https://ukidlucas.beehiiv.com/) to **Uki D. Lucas' newsletter and blog**.
 
-
+<!--
 ![](subscribe.svg)
 ![](/subscribe.svg)
+-->
 ![](./path/subscribe.svg)
 
 
