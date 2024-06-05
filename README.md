@@ -72,9 +72,9 @@ Since I spend much of **my free time** outdoors, skiing and hiking **mountains**
 
 <a name="subscribe"/>
 
-### Subscribe! Do not miss the next post.
+### Subscribe!
 
-[Subscribe to Uki D. Lucas' newsletter and blog](https://ukidlucas.beehiiv.com/)
+ Do not miss the next post. [Subscribe](https://ukidlucas.beehiiv.com/) to **Uki D. Lucas' newsletter and blog**.
 
 
 ![](subscribe.svg)
