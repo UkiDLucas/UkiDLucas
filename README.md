@@ -1,21 +1,13 @@
 ### About Uki 
 
- a Director of Software and System Engineering, I am working on the **LiDAR technology for Advanced Driver Assistance Systems (ADAS)**.
+As the director of Software and System Engineering, I am working on the LiDAR technology for Advanced Driver Assistance Systems (ADAS).
 
-
-<TABLE style="border: 0px solid transparent" cellspacing="10" >
-<TR>
-<TD valign="top" >
 In my free time, I love to study various subjects ranging from behavioral studies to sciences.
 <br/>
-<br/>
 I love reading books, but since I spend as much of my free time as possible skiing and hiking mountains, I mostly listen to audiobooks on Audible and science videos on YouTube.
-</TD>
-<TD>
+
 <img src="https://github.com/UkiDLucas/UkiDLucas/blob/main/audible.jpg" width="250" />
-</TD>
-</TR>
-</TABLE>
+
 
 
 #### My Articles 
@@ -27,7 +19,7 @@ I love reading books, but since I spend as much of my free time as possible skii
 -  [#15. Finding Zen in Motion: The Power of Active Meditation](https://ukidlucas.beehiiv.com/p/finding-zen-motion-power-active-meditation)
 -  [#16. How can you ensure your career is both satisfying and progressing?](https://ukidlucas.beehiiv.com/p/16-can-ensure-career-satisfying-progressing)
 -  [#17. The 15-minute rule](https://ukidlucas.beehiiv.com/p/17-15minute-rule)
--  
+-  [#18. How do actively find opportunities?](https://ukidlucas.beehiiv.com/p/18-actively-find-opportunities)
 
 
 
