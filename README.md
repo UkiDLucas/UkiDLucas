@@ -43,22 +43,7 @@ Since I spend much of **my free time** outdoors, skiing and hiking **mountains**
 #### Subscribe to Uki D. Lucas' newsletter blog
 [my blog](https://ukidlucas.beehiiv.com/)
 
-<form method="post" action="https://ukidlucas.beehiiv.com/create"  data-np-autofill-form-type="subscribe" data-np-checked="1" data-np-watching="1">
-  <input hidden="" name="ref" value="">
-  <input hidden="" name="bhba" value="">
-  <input hidden="" name="visit_token" value="d5c5f8b4-d6fe-48a8-95ed-a7f785c087d8">
-  <input name="redirect_path" type="hidden" value="/subscribe?recommendations=true&amp;email=UkiDLucas%40gmail.com">
-  <input name="sent_from_orchid" type="hidden" value="true">
-  <input name="fallback_path" type="hidden" value="/">
-  <input name="is_recaptcha_enabled" type="hidden" value="true">
-  <input name="double_opt" type="hidden" value="false">
-  <input name="trigger_redirect" type="hidden" value="true">
-  <input hidden="" name="subscribe_error_message" value="Oops, something went wrong.">
-  <input hidden="" name="subscribe_success_message" value="Subscribed!">
-
-      <input type="email" name="email" autocomplete="off" required="" >
-    <input type="submit" class="cursor-pointer px-5 py-3 font-semibold w-full sm:w-auto text-lg focus:text-lg active:text-lg sm:text-lg rounded-md" value="Subscribe" style="background-color: rgb(3, 7, 18); color: rgb(249, 250, 251); font-family: Georgia;">
-  </form>
+{% include email-capture.html %} 
 
 
 
