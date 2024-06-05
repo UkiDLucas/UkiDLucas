@@ -1,6 +1,6 @@
 ### About myself 
 
-As the Software, Firmware, and System Engineering director, I work on LiDAR technology for Advanced Driver Assistance Systems (ADAS) in the autonomous Vehicle industry.
+As the **Software, Firmware, and System Engineering director**, I work on LiDAR technology for Advanced Driver Assistance Systems (ADAS) in the **Autonomous Vehicle** industry.
 
 In my free time, I love to study various subjects ranging from behavioral studies to hard sciences.
 
