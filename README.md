@@ -40,10 +40,10 @@ Since I spend much of **my free time** outdoors, skiing and hiking **mountains**
 -  
 
 
-#### Subscribe to Uki D. Lucas' newsletter blog
-[my blog](https://ukidlucas.beehiiv.com/)
+#### Subscribe! Do not miss the next post.
 
-{% include email-capture.html %} 
+[Subscribe to Uki D. Lucas' newsletter and blog](https://ukidlucas.beehiiv.com/)
+
 
 
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
@@ -113,7 +113,7 @@ Write to me on [LinkedIn][linkedin] <br/>
 
  
  
-[website]: https://github.com/UkiDLucas
+[website]: https://www.UkiDLucas.com
 [medium]: https://UkiDLucas.medium.com/
 [twitter]: https://twitter.com/UkiDLucas
 [youtube]: https://youtube.com/UkiDLucas
