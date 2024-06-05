@@ -32,7 +32,16 @@ I love reading books, but since I spend as much of my free time as possible skii
 
 #### My poetry
 -  [I am a candle](https://ukidlucas.beehiiv.com/p/i-am-a-candle)
+-  [Are We All Lone?](https://ukidlucas.beehiiv.com/p/are-we-all-lone)
+-  [My basil leaf](https://ukidlucas.beehiiv.com/p/my-basil-leaf-poem)
+-  [Legends of Ancient Halls](https://ukidlucas.beehiiv.com/p/legends-of-ancient-halls)
+-  [All These Poems…](https://ukidlucas.beehiiv.com/p/all-these-poems)
 -  
+
+
+#### Subscribe to Uki D. Lucas' newsletter
+<form method="post" action="https://ukidlucas.beehiiv.com/create" class="group w-full rounded-wt bg-transparent" data-np-autofill-form-type="subscribe" data-np-checked="1" data-np-watching="1"><input hidden="" name="ref" value=""><input hidden="" name="bhba" value=""><input hidden="" name="visit_token" value="d5c5f8b4-d6fe-48a8-95ed-a7f785c087d8"><input name="cf-turnstile-response" type="hidden" value="0.EkNAvTmnVFQF6uFHsNZ7b6zsF9Am-Ckj0nM79EWYJXnEY1QoJx5yR3vkkpqGDN10nb8taB-gNQOfF416C8xlsxItVlFL6SWxTHUKzj_eF5u3RoeQYvDdG1gp7dT0m70X3tQDMjxqXkacLN-aI-Woq54HML0OtSqrR_JG3vwcsiv2TdCuPwURzKtDsri4Q0gBLCdROmAtWLMl2_BcF8vSE0Qds917hPG_OOrusvz6xVEDivKWPvov0qC_E3zIwtPtRPQKyyV-l4Rjfqx49l7PStzBYQYaBkc28_0JGE6MLKrRa8vh2obWHDE31LQZ30PCAJDIajc71w1HpepgeoBM0Ud-KbFnPekb9jjRM0lLlVR6EifHwezQSvFKx3V5sapZn0P20uxV39T4jkySetKKZZBe3l9-A5T8zjZ8AlMYERW20Mru-i9SRhMhBXwIRjrQ.AQCktX0DhWiiGTu6k-V95g.6133ef239e07ae9efadecda6bb8d868b32038da95def2d97543c16f7e9829c8f"><input name="redirect_path" type="hidden" value="/subscribe?recommendations=true&amp;email=jallison%40seattleu.edu"><input name="sent_from_orchid" type="hidden" value="true"><input name="fallback_path" type="hidden" value="/"><input name="is_recaptcha_enabled" type="hidden" value="true"><input name="double_opt" type="hidden" value="false"><input name="trigger_redirect" type="hidden" value="true"><input hidden="" name="subscribe_error_message" value="Oops, something went wrong."><input hidden="" name="subscribe_success_message" value="Subscribed!"><div class="flex flex-col"><div class="flex w-full flex-col items-center sm:flex-row overflow-hidden p-1 rounded-lg" style="background-color: rgb(249, 250, 251); border: none;"><div class="flex w-full items-center" style="background-color: rgb(249, 250, 251);"><input type="email" name="email" autocomplete="off" required="" class="wt-button-font z-10 w-full border-none bg-transparent placeholder-shown:text-ellipsis text-lg focus:text-lg active:text-lg sm:text-lg" placeholder="Enter Your Email" style="font-family: Georgia; color: rgb(17, 24, 39);" data-np-autofill-field-type="email" data-np-uid="e7ed27e4-6e88-403d-bb5f-7eff92f24426"><nordpass-icon data-np-uid="e7ed27e4-6e88-403d-bb5f-7eff92f24426"></nordpass-icon></div><input type="submit" class="cursor-pointer px-5 py-3 font-semibold w-full sm:w-auto text-lg focus:text-lg active:text-lg sm:text-lg rounded-md" value="Subscribe" style="background-color: rgb(3, 7, 18); color: rgb(249, 250, 251); font-family: Georgia;"></div></div></form>
+
 
 
 
@@ -43,6 +52,14 @@ I love reading books, but since I spend as much of my free time as possible skii
 [<img align="left" alt="UkiDLucas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="UkiDLucas | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 -->
+
+
+
+
+
+
+
+
 
 
 <br />
