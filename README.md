@@ -44,7 +44,9 @@ Since I spend much of **my free time** outdoors, skiing and hiking **mountains**
 [Subscribe to Uki D. Lucas' newsletter and blog](https://ukidlucas.beehiiv.com/)
 
 
-![](./subscribe.svg)
+![](subscribe.svg)
+![](/subscribe.svg)
+![](.subscribe.svg)
 
 
 
