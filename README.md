@@ -1,10 +1,11 @@
 ### About myself 
 
-As the director of Software and System Engineering, I am working on LiDAR technology for Advanced Driver Assistance Systems (ADAS).
+As the Software, Firmware, and System Engineering director, I work on LiDAR technology for Advanced Driver Assistance Systems (ADAS) in the autonomous Vehicle industry.
 
-In my free time, I love to study various subjects ranging from behavioral studies to sciences.
+In my free time, I love to study various subjects ranging from behavioral studies to hard sciences.
 
-I love reading books, but since I spend as much of my free time as possible skiing and hiking mountains, I mostly listen to audiobooks on Audible and science videos on YouTube.
+I love reading books. I have a library of thousands. 
+Since I spend as much of my free time outdoors, skiing and hiking mountains, I mostly listen to **audiobooks on Audible** and **podcasts** on YouTube.
 
 <img src="https://github.com/UkiDLucas/UkiDLucas/blob/main/audible.jpg" width="250" />
 
@@ -12,23 +13,23 @@ I love reading books, but since I spend as much of my free time as possible skii
 
 #### My Articles 
 -  [Welcome! A soul-baring story.](https://ukidlucas.beehiiv.com/p/welcome)
--  [#1. Why do you need an experienced mentor?](https://ukidlucas.beehiiv.com/p/uki-d-lucas-adventures-science-meditations-1)
--  [#2 Why writing is the most important skill for your career?](https://ukidlucas.beehiiv.com/p/important-skill-career-startup-personal-growth)
--  [#3 Are you considering entry into the autonomous vehicle industry?](https://ukidlucas.beehiiv.com/p/entering-autonomous-vehicle-industry-start-3)
--  [#4. How did thousands of my blog posts become an AI avatar?](https://ukidlucas.beehiiv.com/p/thousands-blog-posts-became-ai-avatar-4)
--  [#5. How does "Amor Fati," the quintessential stoic principle, help you keep your sanity?](https://ukidlucas.beehiiv.com/p/amor-fati-quintessential-stoic-principle-5)
+-  [#1. Why do you need an **experienced mentor**?](https://ukidlucas.beehiiv.com/p/uki-d-lucas-adventures-science-meditations-1)
+-  [#2 Why **writing is the most important skill** for your career?](https://ukidlucas.beehiiv.com/p/important-skill-career-startup-personal-growth)
+-  [#3 Are you considering entry into the **autonomous vehicle industry**?](https://ukidlucas.beehiiv.com/p/entering-autonomous-vehicle-industry-start-3)
+-  [#4. How did thousands of my blog posts become an **AI avatar**?](https://ukidlucas.beehiiv.com/p/thousands-blog-posts-became-ai-avatar-4)
+-  [#5. How does "Amor Fati," the quintessential **stoic principle**, help you keep your sanity?](https://ukidlucas.beehiiv.com/p/amor-fati-quintessential-stoic-principle-5)
 -  [#6. Northern Exposure](https://ukidlucas.beehiiv.com/p/6-norther-exposure)
--  [#7. Why should you make a human connection, not a "quid pro quo" proposition, to assure a successful (business) relationship?](https://ukidlucas.beehiiv.com/p/7-make-human-connection-not-quid-pro-quo-proposition)
+-  [#7. Why should you make a **human connection**, not a "quid pro quo" proposition, to assure a successful (business) relationship?](https://ukidlucas.beehiiv.com/p/7-make-human-connection-not-quid-pro-quo-proposition)
 -  [#8. Cultural Tutor | Sailing](https://ukidlucas.beehiiv.com/p/8-letters)
 -  [#9. Scott Galloway | Avi Kiriaty | Oliver Burkeman](https://ukidlucas.beehiiv.com/p/9-ukis-stoa-sophia-scott-galloway-avi-kiriaty-oliver-burkeman)
 -  [#10. You should take a break and go sailing in AnaCortez.](https://ukidlucas.beehiiv.com/p/10-ukis-stoa-sophia-anacortez-sailing)
--  [#11. Why is it important to realize you are not special?](https://ukidlucas.beehiiv.com/p/11-ukis-stoa-sophia-response-feedback)
--  [#12. How is choosing the right friends a crucial life choice?](https://ukidlucas.beehiiv.com/p/12-ukis-stoa-sophia-celebrating-friendship)
--  [#14. What can I offer you? More than you'd see on the surface!](https://ukidlucas.beehiiv.com/p/14-can-offer-youd-see-surface)
--  [#15. Finding Zen in Motion: The Power of Active Meditation](https://ukidlucas.beehiiv.com/p/finding-zen-motion-power-active-meditation)
--  [#16. How can you ensure your career is both satisfying and progressing?](https://ukidlucas.beehiiv.com/p/16-can-ensure-career-satisfying-progressing)
--  [#17. The 15-minute rule](https://ukidlucas.beehiiv.com/p/17-15minute-rule)
--  [#18. How do you actively find opportunities?](https://ukidlucas.beehiiv.com/p/18-actively-find-opportunities)
+-  [#11. Why is it important to realize **you are not special**?](https://ukidlucas.beehiiv.com/p/11-ukis-stoa-sophia-response-feedback)
+-  [#12. How is **choosing the right friends** a crucial life choice?](https://ukidlucas.beehiiv.com/p/12-ukis-stoa-sophia-celebrating-friendship)
+-  [#14. **What can I offer you**? More than you'd see on the surface!](https://ukidlucas.beehiiv.com/p/14-can-offer-youd-see-surface)
+-  [#15. Finding **Zen in Motion**: The Power of Active Meditation](https://ukidlucas.beehiiv.com/p/finding-zen-motion-power-active-meditation)
+-  [#16. How can you **ensure your career is both satisfying and progressing**?](https://ukidlucas.beehiiv.com/p/16-can-ensure-career-satisfying-progressing)
+-  [#17. The **15-minute rule**](https://ukidlucas.beehiiv.com/p/17-15minute-rule)
+-  [#18. How do you **actively find opportunities**?](https://ukidlucas.beehiiv.com/p/18-actively-find-opportunities)
 
 #### My poetry
 -  [I am a candle](https://ukidlucas.beehiiv.com/p/i-am-a-candle)
