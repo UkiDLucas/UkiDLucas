@@ -74,7 +74,9 @@ Since I spend much of **my free time** outdoors, skiing and hiking **mountains**
 
 ### Subscribe!
 
- Do not miss the next post. [Subscribe](https://ukidlucas.beehiiv.com/) to **Uki D. Lucas' newsletter and blog**.
+ Do not miss the next post.
+ 
+ [Subscribe](https://ukidlucas.beehiiv.com/) to **Uki D. Lucas' newsletter and blog**.
 
 
 ![](subscribe.svg)
