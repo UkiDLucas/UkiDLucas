@@ -1,4 +1,4 @@
-### About myself 
+## About myself 
 
 As the **Software, Firmware, and System Engineering director**, I work on LiDAR technology for Advanced Driver Assistance Systems (ADAS) in the **Autonomous Vehicle** industry.
 
@@ -11,7 +11,7 @@ Since I spend much of **my free time** outdoors, skiing and hiking **mountains**
 
 
 
-#### My Articles 
+## My Articles 
 -  [Welcome! A soul-baring story.](https://ukidlucas.beehiiv.com/p/welcome)
 -  [#1. Why do you need an **experienced mentor**?](https://ukidlucas.beehiiv.com/p/uki-d-lucas-adventures-science-meditations-1)
 -  [#2 Why **writing is the most important skill** for your career?](https://ukidlucas.beehiiv.com/p/important-skill-career-startup-personal-growth)
@@ -31,7 +31,7 @@ Since I spend much of **my free time** outdoors, skiing and hiking **mountains**
 -  [#17. The **15-minute rule**](https://ukidlucas.beehiiv.com/p/17-15minute-rule)
 -  [#18. How do you **actively find opportunities**?](https://ukidlucas.beehiiv.com/p/18-actively-find-opportunities)
 
-#### My poetry
+## My poetry
 -  [I am a candle](https://ukidlucas.beehiiv.com/p/i-am-a-candle)
 -  [Are We All Lone?](https://ukidlucas.beehiiv.com/p/are-we-all-lone)
 -  [My basil leaf](https://ukidlucas.beehiiv.com/p/my-basil-leaf-poem)
@@ -39,7 +39,7 @@ Since I spend much of **my free time** outdoors, skiing and hiking **mountains**
 -  [All These Poems…](https://ukidlucas.beehiiv.com/p/all-these-poems)
 
 
-#### Subscribe! Do not miss the next post.
+### Subscribe! Do not miss the next post.
 
 [Subscribe to Uki D. Lucas' newsletter and blog](https://ukidlucas.beehiiv.com/)
 
@@ -51,7 +51,7 @@ Since I spend much of **my free time** outdoors, skiing and hiking **mountains**
 
 
 
-#### Contact me
+## Contact me
 Write to me on [LinkedIn][linkedin] 
  
 <!-- Complete list of emoji: https://gist.github.com/rxaviers/7360908 -->
@@ -64,7 +64,7 @@ Write to me on [LinkedIn][linkedin]
 
 <br />
 
-#### Statistics 
+## Statistics 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <table style="border: 1px solid transparent" >
 <tr>
@@ -77,18 +77,13 @@ Write to me on [LinkedIn][linkedin]
       <img alt="Languages" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=UkiDLucas&layout=pie&langs_count=20&count_private=true&include_all_commits=true&hide_border=true&hide=HTML,jupyter%20notebook,LilyPond,JavaScript,CSS,MakeFile,Tex,C,Make,CMake,Rust&size_weight=0.4&count_weight=0.6" 
        />
-    
   </td>
 </tr>
- 
- 
 <table>
    
 
-<br />
+<hr />
  
-
-
 
 
  
