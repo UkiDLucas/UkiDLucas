@@ -1,5 +1,11 @@
-cat README.md | pandoc --from markdown  --toc -s  --to markdown -
+##### Table of Contents  
+[Headers](#about) 
+[Articles](#articles)
+[Emphasis](#emphasis)  
 
+
+
+<a name="about"/>
 ## About myself 
 
 As the **Software, Firmware, and System Engineering director**, I work on LiDAR technology for Advanced Driver Assistance Systems (ADAS) in the **Autonomous Vehicle** industry.
@@ -13,6 +19,7 @@ Since I spend much of **my free time** outdoors, skiing and hiking **mountains**
 
 <hr/>
 
+<a name="articles"/>
 ## My Articles 
 -  [Welcome! A soul-baring story.](https://ukidlucas.beehiiv.com/p/welcome)
 -  [#1. Why do you need an **experienced mentor**?](https://ukidlucas.beehiiv.com/p/uki-d-lucas-adventures-science-meditations-1)
@@ -83,6 +90,7 @@ Write to me on [LinkedIn][linkedin]
 </tr>
 <table>
    
+...snip...    
 
 <hr />
  
