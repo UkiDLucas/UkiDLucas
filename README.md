@@ -127,10 +127,7 @@ Write to me on [LinkedIn][linkedin]
   </td>
 </tr>
 <table>
-   
-...snip...    
-
-<hr />
+      
  
 
 
