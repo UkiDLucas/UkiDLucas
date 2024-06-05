@@ -19,7 +19,7 @@ Since I spend much of **my free time** outdoors, skiing and hiking **mountains**
 -  [#4. How did thousands of my blog posts become an **AI avatar**?](https://ukidlucas.beehiiv.com/p/thousands-blog-posts-became-ai-avatar-4)
 -  [#5. How does "Amor Fati," the quintessential **stoic principle**, help you keep your sanity?](https://ukidlucas.beehiiv.com/p/amor-fati-quintessential-stoic-principle-5)
 -  [#6. Northern Exposure](https://ukidlucas.beehiiv.com/p/6-norther-exposure)
--  [#7. Why should you make a **human connection**, not a "quid pro quo" proposition, to assure a successful (business) relationship?](https://ukidlucas.beehiiv.com/p/7-make-human-connection-not-quid-pro-quo-proposition)
+-  [#7. Why should you make a **human connection**, not a "quid pro quo" proposition, to assure a successful relationship?](https://ukidlucas.beehiiv.com/p/7-make-human-connection-not-quid-pro-quo-proposition)
 -  [#8. Cultural Tutor | Sailing](https://ukidlucas.beehiiv.com/p/8-letters)
 -  [#9. Scott Galloway | Avi Kiriaty | Oliver Burkeman](https://ukidlucas.beehiiv.com/p/9-ukis-stoa-sophia-scott-galloway-avi-kiriaty-oliver-burkeman)
 -  [#10. You should take a break and go sailing in AnaCortez.](https://ukidlucas.beehiiv.com/p/10-ukis-stoa-sophia-anacortez-sailing)
@@ -37,7 +37,6 @@ Since I spend much of **my free time** outdoors, skiing and hiking **mountains**
 -  [My basil leaf](https://ukidlucas.beehiiv.com/p/my-basil-leaf-poem)
 -  [Legends of Ancient Halls](https://ukidlucas.beehiiv.com/p/legends-of-ancient-halls)
 -  [All These Poems…](https://ukidlucas.beehiiv.com/p/all-these-poems)
--  
 
 
 #### Subscribe! Do not miss the next post.
@@ -45,7 +44,7 @@ Since I spend much of **my free time** outdoors, skiing and hiking **mountains**
 [Subscribe to Uki D. Lucas' newsletter and blog](https://ukidlucas.beehiiv.com/)
 
 
-![](subscribe.svg)
+![](./subscribe.svg)
 
 
 
