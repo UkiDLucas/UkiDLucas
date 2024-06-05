@@ -1,11 +1,17 @@
-##### Table of Contents  
-[Headers](#about) 
-[Articles](#articles)
-[Emphasis](#emphasis)  
+## Table of Contents  
+- [Headers](#about) 
+- [Articles](#articles)
+- [Poetry](#poems)
+- [Subscribe](#subscribe)
+- [Contact me](contact)
+- [Statistics](statistics)
+ 
+
+<hr/>
 
 
+<a name="about" />
 
-<a name="about"/>
 ## About myself 
 
 As the **Software, Firmware, and System Engineering director**, I work on LiDAR technology for Advanced Driver Assistance Systems (ADAS) in the **Autonomous Vehicle** industry.
@@ -20,6 +26,7 @@ Since I spend much of **my free time** outdoors, skiing and hiking **mountains**
 <hr/>
 
 <a name="articles"/>
+
 ## My Articles 
 -  [Welcome! A soul-baring story.](https://ukidlucas.beehiiv.com/p/welcome)
 -  [#1. Why do you need an **experienced mentor**?](https://ukidlucas.beehiiv.com/p/uki-d-lucas-adventures-science-meditations-1)
@@ -40,6 +47,9 @@ Since I spend much of **my free time** outdoors, skiing and hiking **mountains**
 -  [#17. The **15-minute rule**](https://ukidlucas.beehiiv.com/p/17-15minute-rule)
 -  [#18. How do you **actively find opportunities**?](https://ukidlucas.beehiiv.com/p/18-actively-find-opportunities)
 
+
+<a name="poems"/>
+
 ## My poetry
 -  [I am a candle](https://ukidlucas.beehiiv.com/p/i-am-a-candle)
 -  [Are We All Lone?](https://ukidlucas.beehiiv.com/p/are-we-all-lone)
@@ -47,6 +57,7 @@ Since I spend much of **my free time** outdoors, skiing and hiking **mountains**
 -  [Legends of Ancient Halls](https://ukidlucas.beehiiv.com/p/legends-of-ancient-halls)
 -  [All These Poems…](https://ukidlucas.beehiiv.com/p/all-these-poems)
 
+<a name="subscribe"/>
 
 ### Subscribe! Do not miss the next post.
 
@@ -60,6 +71,8 @@ Since I spend much of **my free time** outdoors, skiing and hiking **mountains**
 
 
 
+<a name="contact"/>
+
 ## Contact me
 Write to me on [LinkedIn][linkedin] 
  
@@ -72,6 +85,9 @@ Write to me on [LinkedIn][linkedin]
 [<img align="left" alt="UkiDLucas | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
+
+
+<a name="statistics"/>
 
 ## Statistics 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
