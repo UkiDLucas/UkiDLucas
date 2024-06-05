@@ -84,7 +84,7 @@ I write because I love the **art of writing** and because I strongly believe in 
 
 ![](subscribe.svg)
 ![](/subscribe.svg)
-![](.subscribe.svg)
+![](./path/subscribe.svg)
 
 
 <br/>
