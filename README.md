@@ -15,7 +15,7 @@
 
 As the **Software, Firmware, and System Engineering director**, I work on LiDAR technology for Advanced Driver Assistance Systems (ADAS) in the **Autonomous Vehicle** industry.
 
-In my free time, I love to study various subjects ranging from behavioral studies to hard sciences.
+ In my free time, I love studying subjects ranging from **behavioral** to hard **sciences**.
 
 I love reading books. I have a library of thousands. 
 Since I spend much of **my free time** outdoors, skiing and hiking **mountains**, I mostly listen to **audiobooks on Audible** and **podcasts** on YouTube.
