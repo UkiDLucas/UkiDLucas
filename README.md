@@ -5,7 +5,7 @@ As the **Software, Firmware, and System Engineering director**, I work on LiDAR 
 In my free time, I love to study various subjects ranging from behavioral studies to hard sciences.
 
 I love reading books. I have a library of thousands. 
-Since I spend as much of my free time outdoors, skiing and hiking mountains, I mostly listen to **audiobooks on Audible** and **podcasts** on YouTube.
+Since I spend much of **my free time** outdoors, skiing and hiking **mountains**, I mostly listen to **audiobooks on Audible** and **podcasts** on YouTube.
 
 <img src="https://github.com/UkiDLucas/UkiDLucas/blob/main/audible.jpg" width="250" />
 
