@@ -49,6 +49,7 @@ Since I spend much of **my free time** outdoors, skiing and hiking **mountains**
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
 <foreignObject width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml">
+        html
         <input type="text" id="name" name="name"/>
         <!-- Other embed HTML element/text into SVG -->
     </div>
