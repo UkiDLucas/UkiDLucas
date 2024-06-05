@@ -7,9 +7,6 @@
 - [Contact me](contact)
 - [Statistics](statistics)
 -->
- 
-
-<br/>
 
 
 <a name="about" />
@@ -55,6 +52,9 @@ Since I spend much of **my free time** outdoors, skiing and hiking **mountains**
 -  [#17. The **15-minute rule**](https://ukidlucas.beehiiv.com/p/17-15minute-rule)
 -  [#18. How do you **actively find opportunities**?](https://ukidlucas.beehiiv.com/p/18-actively-find-opportunities)
 
+<br/>
+<br/>
+<br/>
 
 <a name="poems"/>
 
@@ -64,6 +64,11 @@ Since I spend much of **my free time** outdoors, skiing and hiking **mountains**
 -  [My basil leaf](https://ukidlucas.beehiiv.com/p/my-basil-leaf-poem)
 -  [Legends of Ancient Halls](https://ukidlucas.beehiiv.com/p/legends-of-ancient-halls)
 -  [All These Poems…](https://ukidlucas.beehiiv.com/p/all-these-poems)
+
+
+<br/>
+<br/>
+<br/>
 
 <a name="subscribe"/>
 
@@ -77,7 +82,9 @@ Since I spend much of **my free time** outdoors, skiing and hiking **mountains**
 ![](.subscribe.svg)
 
 
-
+<br/>
+<br/>
+<br/>
 
 <a name="contact"/>
 
@@ -92,8 +99,9 @@ Write to me on [LinkedIn][linkedin]
 [<img align="left" alt="UkiDLucas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="UkiDLucas | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-<br />
-
+<br/>
+<br/>
+<br/>
 
 <a name="statistics"/>
 
